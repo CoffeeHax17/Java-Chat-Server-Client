@@ -1,3 +1,10 @@
+/*********************************************
+ * ©CoffeeHax17                              *
+ * The whole program and all of the classes  *
+ * used are included in just this file cause *
+ * I was bored. Deal with it.                *
+ *********************************************/
+
 import java.net.*;
 import java.io.*;
 import java.util.Scanner;
