@@ -144,4 +144,4 @@ public class Chat
 			e.printStackTrace();
 		}
 	}
-}
+};
